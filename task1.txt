@@ -1,22 +1,13 @@
-# Project Title
+Project Notes
 
-## Description
-This project is created as part of my college work. It helps me understand basic concepts and improve my skills.
+This project is done for learning purpose.
 
-## Objectives
-- Learn new concepts
-- Practice using GitHub
-- Improve problem-solving skills
+I learned:
+- How to create a GitHub repository
+- How to upload files
+- Basic project structure
 
-## Tools Used
-- GitHub
-- Basic programming (edit if needed)
+This will help me improve my technical skills.
 
-
-## Author
-Name: SANTHOSH S 
-Department: ECE  
-College: VSB Engineering College  
-
-## Date
-March 2026
+Name: SANTHOSH S
+Date: March 2026
