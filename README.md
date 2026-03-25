@@ -1,5 +1,3 @@
-# Project Title
-
 ## Description
 This project is created as part of my college work. It helps me understand basic concepts and improve my skills.
 
@@ -13,9 +11,9 @@ This project is created as part of my college work. It helps me understand basic
 - Basic programming 
 
 ## Author
-Name:SANTHOSH 
-Department: ECE  
-College: VSB Engineering College  
+ Name:SANTHOSH 
+ Department: ECE  
+ College: VSB Engineering College  
 
 ## Date
 March 2026
