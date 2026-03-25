@@ -2,7 +2,7 @@ Project Notes
 
 This project is done for learning purpose.
 
-I learned:
+I learned: IS
 - How to create a GitHub repository
 - How to upload files
 - Basic project structure
